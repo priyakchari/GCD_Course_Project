@@ -1,0 +1,20 @@
+This document provides a list of the variables and their description in the tidy data file - 'tidydata.txt'
+
+Variables:
+
+1. subject - Indicates the identification number of the volunteer (subject). Values 1 through 30.
+2. activity - Indicates the activity performed for each of the readings. Values - WALKING, WALKING_UPSTAIRS, 
+        WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+3. timeBodyAccMeanX - Average of time domain signal means of Body Acceleration in X direction
+4. timeBodyAccMeanY - Average of time domain signal means of Body Acceleration in Y direction
+5. timeBodyAccMeanZ - Average of time domain signal means of Body Acceleration in Z direction
+6. timeBodyAccStdX  - Average of time domain signal standard deviations of Body Acceleration in X direction
+7. timeBodyAccStdY  - Average of time domain signal standard deviations of Body Acceleration in Y direction
+8. timeBodyAccStdZ  - Average of time domain signal standard deviations of Body Acceleration in Z direction
+9. timeGravityAccMeanX - Average of time domain signal means of Gravity Acceleration in X direction
+10. timeGravityAccMeanY - Average of time domain signal means of Gravity Acceleration in Y direction
+11. timeGravityAccMeanZ - Average of time domain signal means of Gravity Acceleration in Z direction
+12. timeGravityAccStdX - Average of time domain signal standard deviations of Gravity Acceleration in X direction
+13. timeGravityAccStdY - Average of time domain signal standard deviations of Gravity Acceleration in Y direction
+14. timeGravityAccStdZ - Average of time domain signal standard deviations of Gravity Acceleration in Z direction
+timeBodyAccJerkMeanX timeBodyAccJerkMeanY timeBodyAccJerkMeanZ timeBodyAccJerkStdX timeBodyAccJerkStdY timeBodyAccJerkStdZ timeBodyGyroMeanX timeBodyGyroMeanY timeBodyGyroMeanZ timeBodyGyroStdX timeBodyGyroStdY timeBodyGyroStdZ timeBodyGyroJerkMeanX timeBodyGyroJerkMeanY timeBodyGyroJerkMeanZ timeBodyGyroJerkStdX timeBodyGyroJerkStdY timeBodyGyroJerkStdZ timeBodyAccMagnitudeMean timeBodyAccMagnitudeStd timeGravityAccMagnitudeMean timeGravityAccMagnitudeStd timeBodyAccJerkMagnitudeMean timeBodyAccJerkMagnitudeStd timeBodyGyroMagnitudeMean timeBodyGyroMagnitudeStd timeBodyGyroJerkMagnitudeMean timeBodyGyroJerkMagnitudeStd freqBodyAccMeanX freqBodyAccMeanY freqBodyAccMeanZ freqBodyAccStdX freqBodyAccStdY freqBodyAccStdZ freqBodyAccMeanFreqX freqBodyAccMeanFreqY freqBodyAccMeanFreqZ freqBodyAccJerkMeanX freqBodyAccJerkMeanY freqBodyAccJerkMeanZ freqBodyAccJerkStdX freqBodyAccJerkStdY freqBodyAccJerkStdZ freqBodyAccJerkMeanFreqX freqBodyAccJerkMeanFreqY freqBodyAccJerkMeanFreqZ freqBodyGyroMeanX freqBodyGyroMeanY freqBodyGyroMeanZ freqBodyGyroStdX freqBodyGyroStdY freqBodyGyroStdZ freqBodyGyroMeanFreqX freqBodyGyroMeanFreqY freqBodyGyroMeanFreqZ freqBodyAccMagnitudeMean freqBodyAccMagnitudeStd freqBodyAccMagnitudeMeanFreq freqBodyAccJerkMagnitudeMean freqBodyAccJerkMagnitudeStd freqBodyAccJerkMagnitudeMeanFreq freqBodyGyroMagnitudeMean freqBodyGyroMagnitudeStd freqBodyGyroMagnitudeMeanFreq freqBodyGyroJerkMagnitudeMean freqBodyGyroJerkMagnitudeStd freqBodyGyroJerkMagnitudeMeanFreq
