@@ -16,5 +16,71 @@ Variables:
 11. timeGravityAccMeanZ - Average of time domain signal means of Gravity Acceleration in Z direction
 12. timeGravityAccStdX - Average of time domain signal standard deviations of Gravity Acceleration in X direction
 13. timeGravityAccStdY - Average of time domain signal standard deviations of Gravity Acceleration in Y direction
-14. timeGravityAccStdZ - Average of time domain signal standard deviations of Gravity Acceleration in Z direction
-timeBodyAccJerkMeanX timeBodyAccJerkMeanY timeBodyAccJerkMeanZ timeBodyAccJerkStdX timeBodyAccJerkStdY timeBodyAccJerkStdZ timeBodyGyroMeanX timeBodyGyroMeanY timeBodyGyroMeanZ timeBodyGyroStdX timeBodyGyroStdY timeBodyGyroStdZ timeBodyGyroJerkMeanX timeBodyGyroJerkMeanY timeBodyGyroJerkMeanZ timeBodyGyroJerkStdX timeBodyGyroJerkStdY timeBodyGyroJerkStdZ timeBodyAccMagnitudeMean timeBodyAccMagnitudeStd timeGravityAccMagnitudeMean timeGravityAccMagnitudeStd timeBodyAccJerkMagnitudeMean timeBodyAccJerkMagnitudeStd timeBodyGyroMagnitudeMean timeBodyGyroMagnitudeStd timeBodyGyroJerkMagnitudeMean timeBodyGyroJerkMagnitudeStd freqBodyAccMeanX freqBodyAccMeanY freqBodyAccMeanZ freqBodyAccStdX freqBodyAccStdY freqBodyAccStdZ freqBodyAccMeanFreqX freqBodyAccMeanFreqY freqBodyAccMeanFreqZ freqBodyAccJerkMeanX freqBodyAccJerkMeanY freqBodyAccJerkMeanZ freqBodyAccJerkStdX freqBodyAccJerkStdY freqBodyAccJerkStdZ freqBodyAccJerkMeanFreqX freqBodyAccJerkMeanFreqY freqBodyAccJerkMeanFreqZ freqBodyGyroMeanX freqBodyGyroMeanY freqBodyGyroMeanZ freqBodyGyroStdX freqBodyGyroStdY freqBodyGyroStdZ freqBodyGyroMeanFreqX freqBodyGyroMeanFreqY freqBodyGyroMeanFreqZ freqBodyAccMagnitudeMean freqBodyAccMagnitudeStd freqBodyAccMagnitudeMeanFreq freqBodyAccJerkMagnitudeMean freqBodyAccJerkMagnitudeStd freqBodyAccJerkMagnitudeMeanFreq freqBodyGyroMagnitudeMean freqBodyGyroMagnitudeStd freqBodyGyroMagnitudeMeanFreq freqBodyGyroJerkMagnitudeMean freqBodyGyroJerkMagnitudeStd freqBodyGyroJerkMagnitudeMeanFreq
+14. timeGravityAccStdZ - Average of time domain signal means of Gravity Acceleration in Z direction
+15. timeBodyAccJerkMeanX - Average of time domain signal means of Body Acceleration Jerk in X direction
+16. timeBodyAccJerkMeanY - Average of time domain signal means of Body Acceleration Jerk in Y direction
+17. timeBodyAccJerkMeanZ - Average of time domain signal means of Body Acceleration Jerk in Z direction
+18. timeBodyAccJerkStdX - Average of time domain signal standard deviations of Body Acceleration Jerk in X direction
+19. timeBodyAccJerkStdY - Average of time domain signal standard deviations of Body Acceleration Jerk in Y direction
+20. timeBodyAccJerkStdZ - Average of time domain signal standard deviations of Body Acceleration Jerk in Z direction
+21. timeBodyGyroMeanX - Average of time domain signal means of Body Gyro in X direction
+22. timeBodyGyroMeanY - Average of time domain signal means of Body Gyro in Y direction
+23. timeBodyGyroMeanZ - Average of time domain signal means of Body Gyro in Z direction
+24. timeBodyGyroStdX - Average of time domain signal standard deviations of Body Gyro in X direction
+25. timeBodyGyroStdY - Average of time domain signal standard deviations of Body Gyro in Y direction
+26. timeBodyGyroStdZ - Average of time domain signal standard deviations of Body Gyro in Z direction
+27. timeBodyGyroJerkMeanX - Average of time domain signal means of Body Gyro Jerk in X direction
+28. timeBodyGyroJerkMeanY - Average of time domain signal means of Body Gyro Jerk in Y direction
+29. timeBodyGyroJerkMeanZ - Average of time domain signal means of Body Gyro Jerk in Z direction
+30. timeBodyGyroJerkStdX - Average of time domain signal standard deviations of Body Gyro Jerk in X direction
+31. timeBodyGyroJerkStdY - Average of time domain signal standard deviations of Body Gyro Jerk in Y direction
+32. timeBodyGyroJerkStdZ - Average of time domain signal standard deviations of Body Gyro Jerk in Z direction
+33. timeBodyAccMagnitudeMean - Average of time domain signal means of Body Acceleration Magnitude
+34. timeBodyAccMagnitudeStd - Average of time domain signal standard deviations of Body Acceleration Magnitude
+35. timeGravityAccMagnitudeMean - Average of time domain signal means of Gravity Acceleration Magnitude
+35. timeGravityAccMagnitudeStd - Average of time domain signal standard deviations of Gravity Acceleration Magnitude
+36. timeBodyAccJerkMagnitudeMean - Average of time domain signal means of Body Acceleration Jerk Magnitude
+37. timeBodyAccJerkMagnitudeStd - Average of time domain signal standard deviations of Body Acceleration Jerk Magnitude
+38. timeBodyGyroMagnitudeMean - Average of time domain signal means of Body Gyro Magnitude
+39. timeBodyGyroMagnitudeStd - Average of time domain signal standard deviations of Body Gyro Magnitude
+40. timeBodyGyroJerkMagnitudeMean - Average of time domain signal means of Body Gyro Jerk Magnitude
+41. timeBodyGyroJerkMagnitudeStd - Average of time domain signal standard deviations of Body Gyro Jerk Magnitude
+42. freqBodyAccMeanX - Frequency domain signal starting from here for different features (similar to above)
+43. freqBodyAccMeanY 
+44. freqBodyAccMeanZ 
+45. freqBodyAccStdX 
+46. freqBodyAccStdY 
+47. freqBodyAccStdZ 
+48. freqBodyAccMeanFreqX 
+49. freqBodyAccMeanFreqY 
+50. freqBodyAccMeanFreqZ 
+51. freqBodyAccJerkMeanX 
+52. freqBodyAccJerkMeanY 
+53. freqBodyAccJerkMeanZ 
+54. freqBodyAccJerkStdX 
+55. freqBodyAccJerkStdY 
+56. freqBodyAccJerkStdZ 
+57. freqBodyAccJerkMeanFreqX 
+58. freqBodyAccJerkMeanFreqY 
+59. freqBodyAccJerkMeanFreqZ 
+60. freqBodyGyroMeanX 
+61. freqBodyGyroMeanY 
+62. freqBodyGyroMeanZ 
+63. freqBodyGyroStdX 
+64. freqBodyGyroStdY 
+65. freqBodyGyroStdZ 
+66. freqBodyGyroMeanFreqX 
+67. freqBodyGyroMeanFreqY 
+68. freqBodyGyroMeanFreqZ 
+69. freqBodyAccMagnitudeMean 
+70. freqBodyAccMagnitudeStd 
+71. freqBodyAccMagnitudeMeanFreq 
+72. freqBodyAccJerkMagnitudeMean 
+73. freqBodyAccJerkMagnitudeStd 
+74. freqBodyAccJerkMagnitudeMeanFreq 
+75. freqBodyGyroMagnitudeMean 
+76. freqBodyGyroMagnitudeStd 
+77. freqBodyGyroMagnitudeMeanFreq 
+78.freqBodyGyroJerkMagnitudeMean 
+79. freqBodyGyroJerkMagnitudeStd 
+80. freqBodyGyroJerkMagnitudeMeanFreq
